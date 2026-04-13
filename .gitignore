@@ -1,0 +1,22 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Données locales (chemins personnels)
+installed_projects.json
+
+# Fichiers de doc locaux
+*.docx
+
+# Fichiers divers
+*.txt.bak
+.activervenv.txt
+
+# Claude Code (mémoire locale, pas à pusher)
+.claude/
